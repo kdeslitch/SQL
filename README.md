@@ -11,7 +11,7 @@ This repository showcases examples of SQL queries and projects I've worked on. W
 -  Sample queries from practice projects  
 -  Data exploration and transformation techniques  
 -  Analytics and insights drawn using SQL  
-- 🗃 Real-world datasets and mock business scenarios
+-  Real-world datasets and mock business scenarios
 
 ##  Let's Connect!
 
